@@ -29,7 +29,7 @@
   <a href="https://www.coursera.org">Coursera</a><br>
    <a href="https://www.codewars.com">Codewars</a>
 
-<h2>Alguns cursos gratuitos</h2>
+<h2>Alguns cursos gratuitos</h2> 
 
 <a href="https://www.udemy.com/course/introducao-a-linguagem-html/">Udemy Html Basic</a><br>
 <a href="https://github.com/Universidade-Livre/ciencia-da-computacao">Computer Science</a><br>
