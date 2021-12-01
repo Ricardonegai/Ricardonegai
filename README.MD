@@ -24,12 +24,12 @@
 
 <h2>Recomendações</h2>
 
-<a href="https://www.udemy.com">Udemy</a>
+<a href="https://www.udemy.com">Udemy</a><br>
+ <a href="https://app.rocketseat.com.br/discover">Rocketseat</a><br>
+  <a href="https://www.coursera.org">Coursera</a><br>
+   <a href="https://www.codewars.com">Codewars</a>
 
-<a href="https://app.rocketseat.com.br/discover">Rocketseat</a>
-
-
-<h2>Cursos gratuitos</h2>
+<h2>Alguns cursos gratuitos</h2>
 
 <a href="https://www.udemy.com/course/introducao-a-linguagem-html/">Udemy Html Basic</a><br>
 <a href="https://github.com/Universidade-Livre/ciencia-da-computacao">Computer Science</a><br>
