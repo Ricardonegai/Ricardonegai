@@ -13,7 +13,7 @@
 * Vidro(Proprietário web)
 * Mick(Dc Partner && adm)
 * Matt(Dc Partner && adm)
-* Nizu*Dc Partner && adm)
+* Nizu(Dc Partner && adm)
 
 <h2>Em estudo</h2>
 
