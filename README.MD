@@ -30,11 +30,14 @@ Site geek para assistir animes com inovações
  ```js
 
 Servidor Discord Partner com busca frequente em inovações e sistemas próprios
-```
+ ```
+
  
- <h5> Estado: [id: 002]  = Desenvolvimento<br>
+ <h5>
+      Estado: [id: 002]  = Desenvolvimento<br>
       Estado: [id: 003] = Desenvolvimento<br>
-      Estado: [id: 004] = Desenvolvimento</h5>
+      Estado: [id: 004] = Desenvolvimento
+ </h5>
 
 <h2>Staff</h2> 
 
@@ -67,8 +70,14 @@ Servidor Discord Partner com busca frequente em inovações e sistemas próprios
  [Vue Js](https://www.udemy.com/course/curso-vue-js-vue-samurai-domine-os-conceitos-do-vuejs/)<br>
  [C Udemy](https://www.udemy.com/course/c-e-c-fundamentos-para-logica-de-programacao/learn/lecture/8101418#overview)<br>
  [C completo e total pdf](https://www.inf.ufpr.br/lesoliveira/download/c-completo-total.pdf)<br>
-
-
+ [Pack de cursos](https://mega.nz/folder/kloDyJhY#h84VcFKEJohIfIpKCdRfOw/folder/NsQFDKYR)<br>
+ 
+ <h2>Formação</h2>
+ 
+ ###### Analista de sistemas - Em formação
+ ###### Desenvolvedor full stack - Em formação<br>
+ 
+ 
 <h2>Contato</h2>
 <a href="https://discords.com/bio/p/keitarou">Contato</a>
 <br>
