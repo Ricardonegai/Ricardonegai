@@ -3,7 +3,7 @@
 
 
 <body>
-<h1> Nanl & DreamDev </h1>
+<h1> Nanl & DreamDev & Ryze </h1>
  
  <h2>Projetos atuais</h2>
 
@@ -15,16 +15,21 @@ Com: Economia, waifu, e outros...(segredo, shh!)
 
 ```
  
+ ##### Discord-Bot [id: 003]
 
- 
- ##### Site [id: 003]
+```js
+Administrador e desenvolvedor do bot da team CyberZ.
+```
+ ###### Obs: Ryze é OpenSource, dê uma olhada clicando aqui: [Ryze - CyberZ](https://github.com/Ricardonegai/ryze) 
+
+ ##### Site [id: 004]
  
 ```js
 Site geek para assistir animes com inovações
 ```
  ###### Obs: O site não hospeda nenhum vídeo em seu servidor.
 
- ##### Servidor Discord [id: 004]
+ ##### Servidor Discord [id: 005]
  
  
  ```js
@@ -36,7 +41,8 @@ Servidor Discord Partner com busca frequente em inovações e sistemas próprios
  <h5>
       Estado: [id: 002]  = Desenvolvimento<br>
       Estado: [id: 003] = Desenvolvimento<br>
-      Estado: [id: 004] = Desenvolvimento
+      Estado: [id: 004] = Desenvolvimento<br>
+      Estado: [id: 005] = Desenvolvimento
  </h5>
 
 <h2>Staff</h2> 
@@ -77,7 +83,13 @@ Servidor Discord Partner com busca frequente em inovações e sistemas próprios
  ###### Analista de sistemas - Em formação
  ###### Desenvolvedor full stack - Em formação<br>
  
- 
+<h2>Participações</h2>
+
+ * CyberZ 
+ * Nanl
+ * DevUp
+ * DreamDev
+
 <h2>Contato</h2>
 <a href="https://discords.com/bio/p/keitarou">Contato</a>
 <br>
@@ -89,4 +101,3 @@ Servidor Discord Partner com busca frequente em inovações e sistemas próprios
 
 </body>
 </html>
-
