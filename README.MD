@@ -18,7 +18,7 @@ Com: Economia, waifu, e outros...(segredo, shh!)
  ##### Discord-Bot [id: 003]
 
 ```js
-Administrador e desenvolvedor do bot da team CyberZ.
+Bot com diversas funcionalidades em Slash Commands, o futuro está aqui
 ```
  ###### Obs: Ryze é OpenSource, dê uma olhada clicando aqui: [Ryze - CyberZ](https://github.com/Ricardonegai/ryze) 
 
@@ -91,7 +91,7 @@ Servidor Discord Partner com busca frequente em inovações e sistemas próprios
  * DreamDev
 
 <h2>Contato</h2>
-<a href="https://discords.com/bio/p/keitarou">Contato</a>
+<a href="https://discords.com/bio/p/ricardoo">Contato</a>
 <br>
 <br>
 <p>
