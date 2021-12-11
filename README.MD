@@ -3,7 +3,7 @@
 
 
 <body>
-<h1> Nanl & DreamDev & Ryze </h1>
+<h1> Nanl & DevUp & Ryze </h1>
  
  <h2>Projetos atuais</h2>
 
