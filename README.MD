@@ -29,30 +29,16 @@ Site geek para assistir animes com inovações
 ```
  ###### Obs: O site não hospeda nenhum vídeo em seu servidor.
 
- ##### Servidor Discord [id: 005]
- 
- 
- ```js
-
-Servidor Discord Partner com busca frequente em inovações e sistemas próprios
- ```
-
  
  <h5>
       Estado: [id: 002]  = Desenvolvimento<br>
       Estado: [id: 003] = Desenvolvimento<br>
       Estado: [id: 004] = Desenvolvimento<br>
-      Estado: [id: 005] = Desenvolvimento
  </h5>
 
 <h2>Staff</h2> 
 
-* King(Proprietário web)
-* Near(Proprietário web)
-* Vidro(Proprietário web)
-* Mick(Dc Partner && adm)
-* Matt(Dc Partner && adm)
-* Nizu(Dc Partner && adm)
+* Davi
 
 <h2>Em estudo</h2>
 
@@ -60,6 +46,7 @@ Servidor Discord Partner com busca frequente em inovações e sistemas próprios
 * Vue
 * C/C++
 * Rust
+* Ethical hacking
 
 <h2>Recomendações</h2>
 
@@ -83,12 +70,15 @@ Servidor Discord Partner com busca frequente em inovações e sistemas próprios
  ###### Analista de sistemas - Em formação
  ###### Desenvolvedor full stack - Em formação<br>
  
-<h2>Participações</h2>
+<h2>Participações já feitas</h2>
 
  * CyberZ 
  * Nanl
  * DevUp
- * DreamDev
+ * EXA
+ * GOS
+ * PDL
+ * IDL
 
 <h2>Contato</h2>
 <a href="https://discords.com/bio/p/ricardoo">Contato</a>
