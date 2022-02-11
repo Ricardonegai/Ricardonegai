@@ -3,7 +3,7 @@
 
 
 <body>
-<h1> Nanl & DevUp & Ryze </h1>
+<h1> Davi R. Profile  </h1>
  
  <h2>Projetos atuais</h2>
 
@@ -67,8 +67,10 @@ Site geek para assistir animes com inovações
  
  <h2>Formação</h2>
  
- ###### Analista de sistemas - Em formação
- ###### Desenvolvedor full stack - Em formação<br>
+```css
+Analista de sistemas - Jr
+Desenvolvedor full stack - Jr 
+ ```
  
 <h2>Participações já feitas</h2>
 
@@ -79,13 +81,16 @@ Site geek para assistir animes com inovações
  * GOS
  * PDL
  * IDL
+ * AOG
+ 
 
 <h2>Contato</h2>
 <a href="https://discords.com/bio/p/ricardoo">Contato</a>
 <br>
 <br>
 <p>
-<img src="https://64.media.tumblr.com/2f22752dc97c72a4b798e35b02e6bdba/tumblr_nh1vcs50281s22704o1_r1_500.gif" title="Tensei Shitara Slime Datta Ken" width="670" weight="1150">
+<img src="https://64.media.tumblr.com/7478b0b777ec54c8cd730b7b7692fb23/5755e6f0bd8c75bf-d9/s500x750/8f8d6acf3da7a6556f0cebb61f7e8ecc741a6930.gif" title="Sono Bisque Doll - Marin Kitagawa" width="670" weight="1150">
+ <h6>Todos os direitos reservados à seus respectivos donos</h6>
 </p>
 <br>
 
