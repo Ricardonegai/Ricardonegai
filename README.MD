@@ -7,38 +7,20 @@
  
  <h2>Projetos atuais</h2>
 
- ##### Discord-Bot [id: 002]
  
-```js
-
-Com: Economia, waifu, e outros...(segredo, shh!)
-
-```
- 
- ##### Discord-Bot [id: 003]
+ ##### Discord-Bot 
 
 ```js
 Bot com diversas funcionalidades em Slash Commands, o futuro está aqui
 ```
  ###### Obs: Ryze é OpenSource, dê uma olhada clicando aqui: [Ryze - CyberZ](https://github.com/Ricardonegai/ryze) 
 
- ##### Site [id: 004]
+ ##### Site 
  
 ```js
-Site geek para assistir animes com inovações
+Site geek para assistir animes com inovações de sistemas
 ```
  ###### Obs: O site não hospeda nenhum vídeo em seu servidor.
-
- 
- <h5>
-      Estado: [id: 002]  = Desenvolvimento<br>
-      Estado: [id: 003] = Desenvolvimento<br>
-      Estado: [id: 004] = Desenvolvimento<br>
- </h5>
-
-<h2>Staff</h2> 
-
-* Davi
 
 <h2>Em estudo</h2>
 
@@ -72,18 +54,7 @@ Site geek para assistir animes com inovações
 Analista de sistemas - Jr
 Desenvolvedor full stack - Jr 
  ```
- 
-<h2>Participações já feitas</h2>
 
- * CyberZ 
- * Nanl
- * DevUp
- * EXA
- * GOS
- * PDL
- * IDL
- * AOG
- 
 
 <h2>Contato</h2>
 <a href="https://discords.com/bio/p/ricardoo">Contato</a>
