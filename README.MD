@@ -53,7 +53,7 @@ Site geek para assistir animes com inovações
 <a href="https://www.udemy.com">Udemy</a><br>
  <a href="https://app.rocketseat.com.br/discover">Rocketseat</a><br>
   <a href="https://www.coursera.org">Coursera</a><br>
-   <a href="https://www.codewars.com">Codewars</a>
+   <a href="https://www.codewars.com">Codewars</a><br>
  <a href="https://www.digitalhouse.com/br/curso/desenvolvimento-web-full-stack">Digital House</a>
 
 <h2>Alguns cursos gratuitos</h2> 
